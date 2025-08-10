@@ -1,3 +1,4 @@
 # PIOMMF
-A multimodal framework for identification of pediatric intestinal obstruction. \
+A Novel Multi-View Multimodal Fusion Method for Identification of Pediatric
+Intestinal Obstruction. \
 All codes are in Branch master.
