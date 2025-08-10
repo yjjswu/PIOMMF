@@ -1,4 +1,4 @@
-This is code for :MMFPIO : A Novel Multi-View Multimodal Fusion Method for Identification of Pediatric
+This is code for : MMFN : A Novel Multi-View Multimodal Fusion Network for Pediatric Intestinal Obstruction Recognition
 Intestinal Obstruction \
 For training: Train.py \
 For testing: TestModel.py \
