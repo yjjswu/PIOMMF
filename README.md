@@ -1,4 +1,5 @@
-This is code for :A multimodal framework for identification of pediatric intestinal obstruction \
+This is code for :MMFPIO : A Novel Multi-View Multimodal Fusion Method for Identification of Pediatric
+Intestinal Obstruction \
 For training: Train.py \
 For testing: TestModel.py \
 For Dataloader: DataOfClass \
